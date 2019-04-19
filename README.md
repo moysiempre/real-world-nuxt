@@ -1,9 +1,6 @@
-<<<<<<< HEAD
-# real-world-nuxt
-=======
 # real-world-nuxt
 
-> My fine Nuxt.js project
+> My sublime Nuxt.js project
 
 ## Build Setup
 
@@ -23,4 +20,3 @@ $ npm run generate
 ```
 
 For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
->>>>>>> initial commit
